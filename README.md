@@ -3,8 +3,8 @@
 **:four_leaf_clover:알고리즘과 자료구조에 대해 정리하고, 공부 흔적을 심는 Repository 입니다.:four_leaf_clover:**
 >
 #
-# _Basic_
-### :pushpin: JAVA로 구현한 알고리즘 및 자료구조
+# _Data Structure_
+### :pushpin: JAVA로 구현한 자료구조
 ### :bulb: Path
 * 01 Permutation (순열)
 * 02 Combination (조합)
@@ -17,10 +17,25 @@
 * 09 Priority Queue (우선순위 큐)
 * 10 Tree (트리)
 * 11 Graph (그래프)
-* 12
+* 12 Heap (힙)
+* 13 Trie (트라이)
+* 14 Binary Search Tree (이진 탐색 트리) 
+#
+* * *
+
+# _Algorithm_
+### :pushpin: JAVA로 구현한 알고리즘
+### :bulb: Path
+* 01 정렬
+* 02 이진 탐색
+* 03 투 포인터
+* 04 그리디 알고리즘
+* 05 분할 정복 / 다이나믹 프로그래밍
+* 06 백 트래킹 
+* 07 최단 경로
+* 08 최소 신장 트리
 * 
 #
-
 * * *
 
 # _Baekjoon & Programmers_
