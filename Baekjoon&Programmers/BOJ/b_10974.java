@@ -1,3 +1,5 @@
+package BOJ;
+
 import java.util.Scanner;
 
 public class b_10974 {

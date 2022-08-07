@@ -1,3 +1,5 @@
+package BOJ;
+
 /*
 [MY TIL]
 1. Scanner는 느리기 때문에 되도록 BufferedReader 사용하기

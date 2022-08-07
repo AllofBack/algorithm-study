@@ -1,3 +1,5 @@
+package BOJ;
+
 /*
 [MY TIL]
 1. 다리 놓는 경우의 수 구하기 (겹치면 안 됨)
@@ -6,6 +8,7 @@
 4. 인텔리제이에서 BufferedReader nextToken에서 계속해서 오류 발생,,,해결 중,,,, (백준은 문제없이 정답처리 됨)
    -> hasMoreToken으로 일시적인 해결 가능, 마지막 인덱스 부분 변경 필요.
 */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

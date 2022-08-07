@@ -1,3 +1,5 @@
+package BOJ;
+
 /*
 [MY TIL]
 1. 중복 허용하지 않기 때문에 set으로 선언

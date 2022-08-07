@@ -1,6 +1,11 @@
+package PROGRAMMERS;
+
 // 신고 결과 받기
+
 import java.util.*;
-class Solution {
+
+public class p_01 {
+
     public int[] solution(String[] id_list, String[] report, int k) {
 
         int[] ret = new int[id_list.length];
@@ -27,7 +32,6 @@ class Solution {
                 }
             }
         }
-
         return ret;
     }
 }
