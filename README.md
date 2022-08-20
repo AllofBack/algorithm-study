@@ -39,14 +39,6 @@
 #
 * * *
 
-# _Baekjoon & Programmers_
-### :pushpin: 하루 1코딩 스터디 진행 중 (스터디원 10명) & Gist와 함께 사용
-### :bulb: Path
-* [백준 Baekjoon](https://www.acmicpc.net/)
-* [프로그래머스 Programmers](https://programmers.co.kr/)
-#
-* * *
-
 # _CodingTestEx_
 ### :pushpin: 기출 & 기타 문제
 ### :bulb: Path
